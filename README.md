@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 我在人世间凑数的日子 👋
 
 <!--
 **fofieblog/fofieblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
